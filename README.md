@@ -50,7 +50,7 @@ Group by pt.category;
 ````
 **Answer:**
 
-<img width="501" alt="image" src="https://raw.githubusercontent.com/amirulafiqrosli/Data-Retrieval-SQL-Pizza-Sales/main/4.png">
+<img width="401" alt="image" src="https://raw.githubusercontent.com/amirulafiqrosli/Data-Retrieval-SQL-Pizza-Sales/main/4.png">
 
 ### 5. Average Pizza Price: Calculate the average price of pizzas for each size (Small, Medium, Large, X Large, XX Large) and display the results.
 ````sql
@@ -60,7 +60,7 @@ Group by size;
 ````
 **Answer:**
 
-<img width="501" alt="image" src="https://raw.githubusercontent.com/amirulafiqrosli/Data-Retrieval-SQL-Pizza-Sales/main/5.png">
+<img width="301" alt="image" src="https://raw.githubusercontent.com/amirulafiqrosli/Data-Retrieval-SQL-Pizza-Sales/main/5.png">
 
 ### 6. Busiest Hours: Determine the top 3 busiest hours of the day in terms of the number of orders placed.
 ````sql
@@ -72,7 +72,7 @@ Limit 3;
 ````
 **Answer:**
 
-<img width="501" alt="image" src="https://raw.githubusercontent.com/amirulafiqrosli/Data-Retrieval-SQL-Pizza-Sales/main/6.png">
+<img width="301" alt="image" src="https://raw.githubusercontent.com/amirulafiqrosli/Data-Retrieval-SQL-Pizza-Sales/main/6.png">
 
 ### 7. Dynamic Pricing Analysis: Investigate the impact of dynamic pricing by comparing the average prices of pizzas on weekdays versus weekends. Provide insights into pricing strategies.
 ````sql
@@ -88,7 +88,7 @@ Group by day;
 ````
 **Answer:**
 
-<img width="501" alt="image" src="https://raw.githubusercontent.com/amirulafiqrosli/Data-Retrieval-SQL-Pizza-Sales/main/7.png">
+<img width="401" alt="image" src="https://raw.githubusercontent.com/amirulafiqrosli/Data-Retrieval-SQL-Pizza-Sales/main/7.png">
 
 
 ## Data Source
