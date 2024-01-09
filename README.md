@@ -1,1 +1,1 @@
-# Data-Retrieval-SQL-Pizza-Sales
+# Data Retrieval by SQL: Pizza-Sales
