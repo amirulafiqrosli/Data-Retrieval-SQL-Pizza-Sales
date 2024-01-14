@@ -1,5 +1,8 @@
 <h1>Data Retrieval by SQL: Pizza Sales</h1>
 
+## Objective:
+The overarching objective of the provided SQL queries is to derive meaningful insights from a sizable dataset consisting of over 20,000 rows of interconnected data across four datasets, each linked by primary keys. The queries comprehensively address various aspects of pizza sales, encompassing basic order information retrieval, calculation of daily sales totals, identification of popular pizza types and their quantities, calculation of revenue by pizza category, determination of average pizza prices based on size, identification of the busiest hours, and an analysis of the impact of dynamic pricing on weekdays versus weekends. By analyzing this extensive dataset, the goal is to empower data-driven decision-making processes, providing nuanced insights into sales patterns, popular items, and effective pricing strategies tailored to the unique dynamics of the pizza place's operations.
+
 ## Solution
 
 ### 1. Retrieve Basic Order Information: Write a SQL query to retrieve number of orders.
